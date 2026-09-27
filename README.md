@@ -19,4 +19,17 @@ I am currently learning Python and web development independently. I am intereste
 
 ## Projects
 
-More projects will be added as I continue learning.
+### Simple Calculator
+
+A beginner Python calculator that accepts two numbers and performs:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+I built and tested this project while learning Python fundamentals.
+
+## Future Projects
+
+I will continue adding projects as I learn more about Python and web development.
